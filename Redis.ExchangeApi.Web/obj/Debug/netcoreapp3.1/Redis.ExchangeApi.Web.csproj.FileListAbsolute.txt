@@ -57,6 +57,6 @@ C:\Users\ÖmerÖzkan\source\repos\Redis\Redis.ExchangeApi.Web\bin\Debug\netcorea
 C:\Users\ÖmerÖzkan\source\repos\Redis\Redis.ExchangeApi.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Users\ÖmerÖzkan\source\repos\Redis\Redis.ExchangeApi.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Users\ÖmerÖzkan\source\repos\Redis\Redis.ExchangeApi.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\ÖmerÖzkan\source\repos\Redis\Redis.ExchangeApi.Web\obj\Debug\netcoreapp3.1\Redis.ExchangeApi.Web.csprojAssemblyReference.cache
 C:\Users\ÖmerÖzkan\source\repos\Redis\Redis.ExchangeApi.Web\obj\Debug\netcoreapp3.1\Razor\Views\StringType\Index.cshtml.g.cs
 C:\Users\ÖmerÖzkan\source\repos\Redis\Redis.ExchangeApi.Web\obj\Debug\netcoreapp3.1\Razor\Views\StringType\Show.cshtml.g.cs
+C:\Users\ÖmerÖzkan\source\repos\Redis\Redis.ExchangeApi.Web\obj\Debug\netcoreapp3.1\Razor\Views\ListType\Index.cshtml.g.cs
