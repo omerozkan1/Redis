@@ -62,3 +62,4 @@ C:\Users\ÖmerÖzkan\source\repos\Redis\Redis.ExchangeApi.Web\obj\Debug\netcorea
 C:\Users\ÖmerÖzkan\source\repos\Redis\Redis.ExchangeApi.Web\obj\Debug\netcoreapp3.1\Razor\Views\ListType\Index.cshtml.g.cs
 C:\Users\ÖmerÖzkan\source\repos\Redis\Redis.ExchangeApi.Web\obj\Debug\netcoreapp3.1\Razor\Views\SetType\Index.cshtml.g.cs
 C:\Users\ÖmerÖzkan\source\repos\Redis\Redis.ExchangeApi.Web\obj\Debug\netcoreapp3.1\Razor\Views\SortedSetType\Index.cshtml.g.cs
+C:\Users\ÖmerÖzkan\source\repos\Redis\Redis.ExchangeApi.Web\obj\Debug\netcoreapp3.1\Razor\Views\HashType\Index.cshtml.g.cs
